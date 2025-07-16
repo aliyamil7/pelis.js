@@ -1,2 +1,0 @@
-# pelis.js
-Desafio peliculas
