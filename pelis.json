@@ -1,0 +1,77 @@
+[
+  {
+    "title": "Gladiador",
+    "rating": 10,
+    "tags": ["Clasico", "Drama"]
+  },
+  {
+    "title": "El Padrino 1",
+    "rating": 10,
+    "tags": ["Clasico", "Drama", "Mafia"]
+  },
+  {
+    "title": "El Señor de los anillos 1",
+    "rating": 8,
+    "tags": ["Fantasia", "Novela"]
+  },
+  {
+    "title": "Harry Potter 6",
+    "rating": 7,
+    "tags": ["Fantasia", "Novela", "Magia"]
+  },
+  {
+    "title": "Interestelar",
+    "rating": 9,
+    "tags": ["Ciencia Ficcion", "Drama", "Espacio exterior"]
+  },
+  {
+    "title": "Ratatuille",
+    "rating": 9,
+    "tags": ["Comedia", "Infantil", "Animada"]
+  },
+  {
+    "title": "Naufrago",
+    "rating": 8,
+    "tags": ["Drama", "Supervivencia", "Soledad"]
+  },
+  {
+    "title": "Doce Monos",
+    "rating": 9,
+    "tags": ["Ciencia Ficcion", "Drama", "Thriller"]
+  },
+  {
+    "title": "Bastardos Sin Gloria",
+    "rating": 10,
+    "tags": ["Drama", "Nazis", "Comedia"]
+  },
+  {
+    "title": "Hitch",
+    "rating": 8,
+    "tags": ["Comedia", "Romantica"]
+  },
+  {
+    "title": "Venganza Implacable 1",
+    "rating": 10,
+    "tags": ["Accion", "Drama", "Policial"]
+  },
+  {
+    "title": "Braveheart",
+    "rating": 10,
+    "tags": ["Drama", "Guerra", "Romantica"]
+  },
+  {
+    "title": "Monster Incs 1",
+    "rating": 9,
+    "tags": ["Comedia", "Infantil", "Animada"]
+  },
+  {
+    "title": "Ted 1",
+    "rating": 5,
+    "tags": ["Ciencia Ficcion", "Comedia", "Alcohol"]
+  },
+  {
+    "title": "Calabozos y Dragones",
+    "rating": 10,
+    "tags": ["Ciencia Ficcion", "Fantasia", "Comedia"]
+  }
+]
